@@ -139,7 +139,7 @@ liquid:
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Volver al inicio"
 
 footer_content: 'Contenido: Copyright &copy; 2025 Ferran Muñoz <br>Plantilla: Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
 
