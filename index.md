@@ -29,5 +29,5 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 ----
 
 [Email]: mailto:ferran@email.com?subject=Consulta
-[LinkedInUrl]: mailto:ferran@email.com?subject=Consulta
-[TwitterUrl]: mailto:ferran@email.com?subject=Consulta
+[LinkedInUrl]: https://www.linkedin.com/in/ferran-muñoz-dev
+[TwitterUrl]: https://x.com/ferran_munoz
