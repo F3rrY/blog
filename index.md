@@ -28,6 +28,12 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 
 ----
 
+## Últimos artículos publicados
+{: .fs-5 .fw-300 }
+
+- Notas: [Hello World][HelloWorldUrl] - 2025-08-07
+
 [Email]: mailto:ferran@email.com?subject=Consulta
 [LinkedInUrl]: https://www.linkedin.com/in/ferran-muñoz-dev
 [TwitterUrl]: https://x.com/ferran_munoz
+[HelloWorldUrl]: docs/notas/hello-world
