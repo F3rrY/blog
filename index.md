@@ -31,7 +31,7 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 ## Últimos artículos publicados
 {: .fs-5 .fw-300 }
 
-- Notas: [Hello World][HelloWorldUrl] - 2025-08-07
+- Notas: [Hello World][HelloWorldUrl] (07-08-2025)
 
 [Email]: mailto:ferran@email.com?subject=Consulta
 [LinkedInUrl]: https://www.linkedin.com/in/ferran-muñoz-dev
