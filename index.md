@@ -31,9 +31,11 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 ## Últimos artículos publicados
 {: .fs-5 .fw-300 }
 
+- Notas: [Así cree mi blog gratis y rápido][AsiCreeMiBlogGratisYRapidoUrl] (18-08-2025)
 - Notas: [Hello World][HelloWorldUrl] (07-08-2025)
 
 [Email]: mailto:ferran@email.com?subject=Consulta
 [LinkedInUrl]: https://www.linkedin.com/in/ferran-muñoz-dev
 [TwitterUrl]: https://x.com/ferran_munoz
 [HelloWorldUrl]: docs/notas/hello-world
+[AsiCreeMiBlogGratisYRapidoUrl]: docs/notas/asi-cree-mi-blog-gratis-y-rapido
