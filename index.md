@@ -31,6 +31,7 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 ## Últimos artículos publicados
 {: .fs-5 .fw-300 }
 
+- Notas: [Guía rápida de comandos de Git que deberías conocer][GuiaRapidaDeComandosDeGitUrl] (25-08-2025)
 - Notas: [Así cree mi blog gratis y rápido][AsiCreeMiBlogGratisYRapidoUrl] (18-08-2025)
 - Notas: [Hello World][HelloWorldUrl] (07-08-2025)
 
@@ -39,3 +40,4 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 [TwitterUrl]: https://x.com/ferran_munoz
 [HelloWorldUrl]: docs/notas/hello-world
 [AsiCreeMiBlogGratisYRapidoUrl]: docs/notas/asi-cree-mi-blog-gratis-y-rapido
+[GuiaRapidaDeComandosDeGitUrl]: docs/notas/guia-rapida-de-comandos-de-git-que-deberías-conocer
