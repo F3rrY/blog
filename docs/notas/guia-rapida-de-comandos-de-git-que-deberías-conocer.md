@@ -53,10 +53,31 @@ git clone -b nombre-de-la-rama url-del-repositorio
 
 Git branch es un comando utilizado para **listar, crear o eliminar** las ramas de un repositorio de Git. Este comando es realmente útil cuando trabajas en equipo, ya que permite que cada grupo de trabajo modifique el proyecto en ramas independientes sin afectar a la rama principal. Entonces, una vez se han hechos los cambios, pueden fusionar (merge) su rama con la rama principal para que se actualice con los cambios realizados. De hecho, esta es la forma óptima de trabajar en entornos empresariales, y os encontraréis con ramas de todo tipo: ramas de nuevos desarrollos (features), ramas de corrección de errores (bugfix), ramas de pruebas (testing), etc.
 
+En este ejemplo, se listan todas las ramas del repositorio local
+```
+git branch
+```
+
+Si quieres ver todas las ramas del repositorio remoto, puedes usar la opción `-r` (remote)
+```
+git branch -r
+```
+
+Si quieres ver todas las ramas, incluidas las que están en el repositorio remoto, puedes usar la opción `-a` (all)
+```
+git branch -a
+```
+
 En este ejemplo, se crea una nueva rama llamada "feature/crud-entidades"
 ```
 git branch feature/crud-entidades
 ```
+
+Y si quieres eliminar una rama que ya no necesitas, añades la opción `-d` (delete) y el nombre de la rama. Ojo, para eliminar la rama, no puedes estar en ella, tienes que estar en otra rama. En este ejemplo, se elimina la rama llamada "feature/crud-entidades"
+```
+git branch -d feature/crud-entidades
+```
+
 
 ### git checkout
 
