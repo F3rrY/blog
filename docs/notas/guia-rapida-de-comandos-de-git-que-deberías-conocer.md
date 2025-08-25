@@ -2,6 +2,7 @@
 title: Guía rápida de comandos de Git que deberías conocer
 parent: Notas
 nav_order: 1
+tags: [Git, comandos básicos git, comandos git, aprender git, tutorial git]
 ---
 
 ## Guía rápida de comandos de Git que deberías conocer

@@ -3,6 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 description: "El blog técnico de Ferran Muñoz"
+tags: [Ferran Muñoz, .NET, Ferran Muñoz programador, Ferran Muñoz .NET]
 permalink: /
 ---
 

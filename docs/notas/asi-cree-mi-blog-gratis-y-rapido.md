@@ -2,6 +2,7 @@
 title: Así creé mi blog gratis y rápido
 parent: Notas
 nav_order: 1
+tags: [blog, crear blog gratis, blog gratis]
 ---
 
 ## Así creé mi blog gratis y rápido
