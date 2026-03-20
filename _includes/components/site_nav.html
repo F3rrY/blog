@@ -11,6 +11,7 @@
 {%- endcomment -%}
 
 <nav aria-label="Main" id="site-nav" class="site-nav">
+  <div class="nav-category-label">Categorías</div>
   {% assign pages_top_size = site.html_pages
         | where_exp:"item", "item.title != nil"
         | where_exp:"item", "item.parent == nil"
@@ -65,6 +66,24 @@
       {% endif %}
     {% endfor %}
   {% endif %}
+
+  <!-- Artículos recientes -->
+  <div class="nav-category-label">Artículos recientes</div>
+  <ul class="nav-list">
+    {%- assign recent_pages = site.html_pages
+        | where_exp: "item", "item.title != nil"
+        | where_exp: "item", "item.parent != nil"
+        | where_exp: "item", "item.nav_exclude != true"
+        | sort: "last_modified_date"
+        | reverse -%}
+    {%- for item in recent_pages limit: 5 -%}
+      <li class="nav-list-item">
+        <a href="{{ item.url | relative_url }}" class="nav-list-link{% if item.url == page.url %} active{% endif %}">
+          {{ item.title }}
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
 </nav>
 
 {% if site.nav_error_report %}

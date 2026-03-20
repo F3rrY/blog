@@ -3,6 +3,7 @@ title: Así creé mi blog gratis y rápido
 parent: Notas
 nav_order: 1
 tags: [blog, crear blog gratis, blog gratis]
+last_modified_date: 2025-08-18
 ---
 
 ## Así creé mi blog gratis y rápido
