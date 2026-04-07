@@ -1,8 +1,8 @@
 ---
 title: De SQL Server a Kusto - Conceptos básicos
 parent: Azure
-tags: [SQL Server, SQL, Kusto, Conceptos básicos Kusto]
-last_modified_date: 2026-03-19
+tags: [SQL Server, SQL, Kusto, Conceptos básicos Kusto, De SQL a Kusto]
+last_modified_date: 2026-04-07
 ---
 
 ## ¿Qué es Kusto?
