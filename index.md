@@ -27,6 +27,6 @@ Y si quieres decirme algo de forma más directa, hacerme alguna pregunta o comen
 
 [Contacto][Email]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
-[Email]: mailto:ferran@email.com?subject=Consulta
+[Email]: mailto:ferranml@gmail.com?subject=Consulta
 [LinkedInUrl]: https://www.linkedin.com/in/ferran-muñoz-dev
 [TwitterUrl]: https://x.com/ferran_munoz
